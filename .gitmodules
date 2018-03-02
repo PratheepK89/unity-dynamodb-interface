@@ -1,3 +1,0 @@
-[submodule "dynamodb-central-unit"]
-	path = dynamodb-central-unit
-	url = https://github.com/crowdgames/dynamodb-central-unit.git
